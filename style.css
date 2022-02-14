@@ -11,6 +11,7 @@
 
  body{
      font-family: "Roboto","Arial",sans-serif;
+     background-color: rgb(9, 1, 14);
  }
  header{
      display: flex;
@@ -19,7 +20,7 @@
     height: 56px;
     padding: 0 16px;
  }
-
+i {color: whitesmoke;}
  .left {
      display: flex;
      align-items: center;
@@ -75,5 +76,11 @@ margin-left: 10px;
 cursor: pointer;
  }
 
+ .right a {
+padding-right: 18px;
+text-decoration: none;
+
+
+ }
 
  
