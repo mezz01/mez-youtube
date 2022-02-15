@@ -14,8 +14,8 @@
      background-color: rgb(9, 1, 14);
  }
  header{
-     display: flex;
-     justify-content: space-between;
+   display: flex;
+   justify-content: space-between;
     align-items: center;
     height: 56px;
     padding: 0 16px;
@@ -28,21 +28,22 @@ i {color: whitesmoke;}
 
  }
  .left img {
-     width: 46%;
+     width: 15%;
      align-items: center;
-     padding-left:15px; 
+     padding-left:25px; 
  }
 
  .mid {
      display: flex;
      align-items: center;
-margin-left: -30px;
+justify-content:space-between;
  }
 
  .mid form{
      display: flex;
      height: 40px;
      width: 628px;
+     justify-content: center;
 
  }
  .mid input {
