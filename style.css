@@ -44,17 +44,20 @@ justify-content:space-between;
  .mid form{
      display: flex;
      height: 40px;
-     width: 628px;
+     width: 600px;
      justify-content: center;
+   
+  
 
  }
  .mid input {
-     width: 100%;
+     width: 87%;
      border-radius: 12px 0 0 12px;
      padding: 12px;
      font-size: 1.6rem;
      border: 1px solid whitesmoke;
      border-right: none;
+     
  }
  .mid button {
      width: 64px;
@@ -75,7 +78,7 @@ background-color: rgb(201, 201, 201);
 display: flex;
 align-items: center;
 justify-content: center;
-margin-left: 10px;
+margin-left: 6px;
 cursor: pointer;
  }
 
