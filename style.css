@@ -11,14 +11,14 @@
 
  body{
      font-family: "Roboto","Arial",sans-serif;
-     background-color: rgb(9, 1, 14);
+     background-color: rgb(6, 1, 8);
  }
  header{
    display: flex;
    justify-content: space-between;
     align-items: center;
     height: 56px;
-   
+     background-color: black;
  }
 i {color: whitesmoke;}
  .left {
@@ -85,8 +85,19 @@ cursor: pointer;
  .right a {
 padding-right: 18px;
 text-decoration: none;
-
-
  }
 
- 
+ .content {
+     height: calc(100vh - 56px);
+     display: flex;
+    
+ }
+
+ aside{
+height: 100%;
+width: 280px;
+background-color: black;
+ }
+ nav{
+     width: 100%;
+ }
