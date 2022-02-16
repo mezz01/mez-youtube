@@ -18,22 +18,24 @@
    justify-content: space-between;
     align-items: center;
     height: 56px;
-    padding: 0 16px;
+   
  }
 i {color: whitesmoke;}
  .left {
+   
      display: flex;
      align-items: center;
      cursor: pointer;
 
  }
  .left img {
-     width: 15%;
+     width: 170px;
      align-items: center;
      padding-left:25px; 
  }
 
  .mid {
+    
      display: flex;
      align-items: center;
 justify-content:space-between;
