@@ -1,2 +1,2 @@
 # mez-youtube
-Building youtube with HTML and CSS and using google items.
+Building my own video platform UI using basic web programming.
