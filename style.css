@@ -109,6 +109,13 @@ background-color: black;
 display: flex;
 align-items: center;
 padding: 10px 16px;
+text-decoration: none;
+color: whitesmoke;
+ }
+
+ .nv:hover{
+     background-color: rgb(24, 24, 24);
+     transition: 0.6s ease;
  }
 
  .nv span {
@@ -116,5 +123,11 @@ padding: 10px 16px;
     font-size: 1.4rem;
     line-height: 2em;
     font-weight: 400;
-     
+     color: whitesmoke;
  }
+hr {
+    height: 0.4px;
+    background-color: whitesmoke;
+    border: none;
+    margin: 10px 3px;
+}
