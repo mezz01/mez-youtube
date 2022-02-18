@@ -131,3 +131,9 @@ hr {
     border: none;
     margin: 10px 3px;
 }
+
+ch-img{
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+}
