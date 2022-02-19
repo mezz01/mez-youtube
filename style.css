@@ -146,11 +146,18 @@ ch-img{
 main{
     background-color: rgb(34, 28, 37);
     width: 100%;
-  
-  padding-top: 56px;
+ padding: 30px; 
+  padding-top: 80px;
 }
 main h1{
   
   color: white;
  
 }
+
+
+
+
+
+
+
