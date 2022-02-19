@@ -28,7 +28,7 @@ i {color: whitesmoke;}
      display: flex;
      align-items: center;
      cursor: pointer;
-
+padding-left: 8px;
  }
  .left img {
      width: 170px;
@@ -98,9 +98,9 @@ text-decoration: none;
  aside{
  padding-top: 50px;
 height: 100%;
-width: 15%;
+width: 280px;
 background-color: black;
-overflow: scroll;
+
  }
  nav{
      width: 100%;
