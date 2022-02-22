@@ -147,7 +147,7 @@ main{
    
     width: 100%;
     height: 100%;
-    padding: 35px 15px;
+    padding: 70px 15px;
     overflow-y: auto;
 }
 
@@ -193,13 +193,34 @@ main{
 }
 
 .title a {
-    color: white;
+  
     text-decoration: none;
 }
 .video-title {
     font-size:1.6rem ;
     max-width: 278px;
+    font-weight: 500;
+    line-height: 2.2rem;
+    margin-bottom:4px ;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
 }
+
+.video-creator,
+.title span
+{
+    color: rgb(124, 123, 123);
+    font-size: 1.3rem;
+}
+ .video-title {
+     color: white;
+ }
+
+
+
 
 
 
