@@ -179,7 +179,21 @@ main{
     display: flex;
 }
 
+.creator-img img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 12px;
+}
 
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
+.title a {
+    text-decoration: none;
+}
 
 
 
