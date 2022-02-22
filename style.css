@@ -144,7 +144,7 @@ ch-img{
     border-radius: 50%;
 }
 main{
-    background-color: rgb(34, 28, 37);
+   
     width: 100%;
     height: 100%;
     padding: 35px 15px;
@@ -189,10 +189,16 @@ main{
 .title {
     display: flex;
     flex-direction: column;
+    color: white;
 }
 
 .title a {
+    color: white;
     text-decoration: none;
+}
+.video-title {
+    font-size:1.6rem ;
+    max-width: 278px;
 }
 
 
